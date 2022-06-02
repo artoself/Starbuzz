@@ -26,8 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36acc868-448a-46a6-8e91-fdb84bac5646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -59,9 +57,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -76,11 +75,24 @@
       <workItem from="1651574145381" duration="11000" />
       <workItem from="1651575846717" duration="2203000" />
       <workItem from="1653497919567" duration="1561000" />
+      <workItem from="1653993337554" duration="816000" />
+      <workItem from="1653994441804" duration="895000" />
+      <workItem from="1653998135835" duration="683000" />
+      <workItem from="1654061465601" duration="73000" />
+      <workItem from="1654061589787" duration="559000" />
+      <workItem from="1654064519700" duration="186000" />
+      <workItem from="1654064770724" duration="48000" />
+      <workItem from="1654064868970" duration="78000" />
+      <workItem from="1654064990689" duration="50000" />
+      <workItem from="1654065061059" duration="4081000" />
+      <workItem from="1654080602222" duration="2698000" />
+      <workItem from="1654148160371" duration="874000" />
+      <workItem from="1654165018874" duration="1254000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,10 +111,21 @@
                   </entry>
                 </map>
               </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1654064926594">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1654064926594" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1654064950068">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1654064950068" />
   </component>
 </project>
