@@ -2,7 +2,7 @@ body {
   background-color: #b5a789;
   font-family:      Georgia, "Times New Roman", Times, serif;
   font-size:        small;
-  margin:           0px;
+  margin:           0;
 }
 
 #header {
@@ -15,14 +15,16 @@ body {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
+  margin:           0 330px 10px 10px;
 }
 
 #sidebar {
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
+  margin:           0 10px 10px 10px;
+  width:            280px;
+  float:            right;
 }
 
 #footer {
@@ -32,6 +34,7 @@ body {
   padding:          15px;
   margin:           10px;
   font-size:        90%;
+  clear:            right;
 }
 
 h1 {
