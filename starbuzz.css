@@ -10,11 +10,19 @@ body {
   margin:           10px 10px 0 10px;
   height:           108px;
 }
-div#tableContainer {
+#headerSlogan {
+  float: right;
+}
+#award {
+  position: absolute;
+  top:      30px;
+  left:     365px;
+}
+#tableContainer {
   display:          table;
   border-spacing:   10px;
 }
-div#tableRow {
+#tableRow {
   display:          table-row;
 }
 #drinks {
