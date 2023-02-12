@@ -28,7 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36acc868-448a-46a6-8e91-fdb84bac5646" name="Default Changelist" comment="05.02.2023">
+    <list default="true" id="36acc868-448a-46a6-8e91-fdb84bac5646" name="Default Changelist" comment="05.02.2023 - 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/starbuzz.css" afterDir="false" />
@@ -48,13 +48,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="28e9cvZ95fJrcdmsaR4KxGMsBox" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -63,6 +70,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -103,7 +111,14 @@
       <workItem from="1675519958596" duration="1214000" />
       <workItem from="1675521232019" duration="503000" />
       <workItem from="1675522690393" duration="654000" />
-      <workItem from="1675620647327" duration="7222000" />
+      <workItem from="1675620647327" duration="7566000" />
+      <workItem from="1675976140323" duration="2800000" />
+      <workItem from="1676058072976" duration="1741000" />
+      <workItem from="1676217074449" duration="321000" />
+      <workItem from="1676217984708" duration="825000" />
+      <workItem from="1676219069084" duration="307000" />
+      <workItem from="1676219637853" duration="976000" />
+      <workItem from="1676227832825" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="05.02.2023">
       <created>1675624897800</created>
@@ -112,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675624897800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="05.02.2023 - 2">
+      <created>1675630955513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675630955513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="05.02.2023 - 2">
+      <created>1675630970808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675630970808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +171,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="05.02.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.02.2023" />
+    <MESSAGE value="05.02.2023 - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.02.2023 - 2" />
   </component>
 </project>

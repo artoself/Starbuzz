@@ -48,6 +48,16 @@ body {
   vertical-align:   top;
 }
 
+#coupon {
+  position: fixed;
+  top:      350px;
+  left:     -90px;
+}
+
+#coupon a, img {
+  border: none;
+}
+
 #footer {
   background-color: #675c47;
   color:            #efe5d0;
