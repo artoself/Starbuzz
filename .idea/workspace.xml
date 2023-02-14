@@ -45,6 +45,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="FF_ONLY" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -119,6 +126,7 @@
       <workItem from="1676219069084" duration="307000" />
       <workItem from="1676219637853" duration="976000" />
       <workItem from="1676227832825" duration="1188000" />
+      <workItem from="1676378904175" duration="3934000" />
     </task>
     <task id="LOCAL-00001" summary="05.02.2023">
       <created>1675624897800</created>
