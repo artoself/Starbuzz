@@ -5,12 +5,12 @@ body {
   margin:           0;
 }
 
-header {
+header.top {
   background-color: #675c47;
   margin:           10px 10px 0 10px;
   height:           108px;
 }
-header img#headerSlogan {
+header.top img#headerSlogan {
   float: right;
 }
 #award {
@@ -32,7 +32,7 @@ section#drinks {
   padding:          15px;
   vertical-align:   top;
 }
-section#main {
+section#main, section#blog {
   display:          table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
