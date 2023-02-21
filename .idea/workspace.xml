@@ -30,6 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36acc868-448a-46a6-8e91-fdb84bac5646" name="Default Changelist" comment="14.02.2023 -2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/starbuzz.css" afterDir="false" />
     </list>
@@ -125,6 +126,9 @@
       <workItem from="1676219637853" duration="976000" />
       <workItem from="1676227832825" duration="1188000" />
       <workItem from="1676378904175" duration="3934000" />
+      <workItem from="1676895375747" duration="20000" />
+      <workItem from="1676899491053" duration="219000" />
+      <workItem from="1676936728633" duration="2762000" />
     </task>
     <task id="LOCAL-00001" summary="05.02.2023">
       <created>1675624897800</created>

@@ -1,10 +1,27 @@
-body { 
+body {
   background-color: #b5a789;
   font-family:      Georgia, "Times New Roman", Times, serif;
   font-size:        small;
   margin:           0;
 }
-
+ul {
+  background-color: #efe5d0;
+  margin: 10px 10px 0 10px;
+  list-style-type: none;
+  padding: 5px 0 5px 0;
+}
+ul li {
+  display: inline;
+  padding: 5px 10px 5px 10px;
+}
+ul li a:link, ul li a:visited {
+  color: #954b4b;
+  border-bottom: none;
+  font-weight: bold;
+}
+ul li.selected {
+  background-color: #c8b99c;
+}
 header.top {
   background-color: #675c47;
   margin:           10px 10px 0 10px;
