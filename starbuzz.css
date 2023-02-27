@@ -4,22 +4,25 @@ body {
   font-size:        small;
   margin:           0;
 }
-ul {
+nav {
   background-color: #efe5d0;
   margin: 10px 10px 0 10px;
+}
+nav ul {
+  margin: 0;
   list-style-type: none;
   padding: 5px 0 5px 0;
 }
-ul li {
+nav ul li {
   display: inline;
   padding: 5px 10px 5px 10px;
 }
-ul li a:link, ul li a:visited {
+nav ul li a:link, nav ul li a:visited {
   color: #954b4b;
   border-bottom: none;
   font-weight: bold;
 }
-ul li.selected {
+nav ul li.selected {
   background-color: #c8b99c;
 }
 header.top {
